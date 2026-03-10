@@ -2,6 +2,10 @@
 
 A **Unity Editor** window that scans and profiles every mesh in the active scene, displaying per-object and scene-wide performance stats with a live Scene View overlay.
 
+## Demo
+
+<video src="ScreenProfiler.mp4" controls width="100%"></video>
+
 ## Overview
 
 Knowing which objects in your scene are the most expensive is the first step to optimizing it. This tool provides an instant breakdown of triangle counts, vertex counts, material counts, and mesh memory for every `MeshFilter` and `SkinnedMeshRenderer` in the scene — all from a single window.
