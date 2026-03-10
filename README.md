@@ -4,7 +4,7 @@ A **Unity Editor** window that scans and profiles every mesh in the active scene
 
 ## Demo
 
-![Demo](ScreenProfiler.mp4)
+![Demo](ScreenProfiler.gif)
 
 ## Overview
 
